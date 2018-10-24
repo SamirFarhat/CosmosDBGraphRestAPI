@@ -1,4 +1,6 @@
 <h2 id="bkmrk-hi%2C" class="align-center">CosmosDBGraphRestAPI</h2>
+<li>Estimated time to complete the how-to : 10 minutes</li>
+<li></li>
 <p id="bkmrk-cosmosdb-supports-a-">CosmosDB supports a graph database that supports Grmlin traversal language.</p>
 <p id="bkmrk-unfortunately%2C-it-do">Unfortunately, it does not support a REST API, and this is disappointing for some people, that wants to use CosmosDB Graph in different language than the available APIs (Java, c#...).</p>
 <p id="bkmrk-fortunately%2C-using-o">Fortunately, using only an Azure Function, you can build your own or a public CosmosDB graph Rest API, that you can use in real life.</p>
